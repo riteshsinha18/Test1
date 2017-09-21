@@ -1,0 +1,34 @@
+# Test1
+This is an android basic application to test all the modules in different activities
+Included activity list
+MenuActivity-contains list of the Activities included for easy traversal
+CalculatorActivity
+FullCalciActivity
+MainActivity
+DealActivity
+CameraActivity
+IntentDemoActivity
+VibrationActivity
+SpinnerActivity
+RadioActivity
+ImageResourceActivity
+AlertDialogActivity
+ToggleSwitchActivity
+DateActivity
+OptionsMenuActivity
+WallpaperActivity
+SharedPrefrenceActivity
+ProximitySensorActivity
+OrientationSensorActivity
+SeekbarActivity
+SdcardActivity
+VideoActivity
+NotificationActivity
+ServiceDemoActivity
+MusicActivity
+ServiceDemo2Activity
+GpsActivity
+DatabaseAddActivity
+DatabaseViewActivity
+DatabaseDeleteActivity
+DatabaseUpdateActivity
